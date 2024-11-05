@@ -3,7 +3,6 @@
     "name": "The Waddle",
     "loop": "1m",
     "octave": 0,
-    "duration": "2:0:0",
     "sequence": [
       {
         "time": "0:1:0.0",
@@ -53,7 +52,6 @@
     "name": "Climbing Up",
     "loop": "1:2:0",
     "octave": 0,
-    "duration": "1:0:0",
     "sequence": [
       {
         "time": "0:0:0.0",
